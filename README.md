@@ -1,10 +1,9 @@
-- 👋 Hi, I’m @Elzrjr22
-- 👀 I’m interested in learning about computer
-- 🌱 I’m currently learning at home and school
-- 💞️ I’m looking to collaborate someday with professionals on IT industry
-- 📫 just email me here >>>> jonsnowsnow22@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 👋 Hi, I’m Eleazar M. Estillore Jr.
+- 4th year BS Computer Science Students
+- NEW ERA UNIVERSITY
+- SQL and Relational Databases 101
+- SQL/Javascript/Html/CSC/C++/Python
+- 
 
 <!---
 Elzrjr22/Elzrjr22 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
